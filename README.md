@@ -15,8 +15,9 @@ Without these dependencies installed, `ssm-session` will not function properly.
 
 Install using Homebrew:
 
-```bash
-brew install your_github_username/tools/ssm-session
+```
+brew tap mi-kobaaa/ssm-session
+brew install mi-kobaaa/ssm-session/ssm-session
 ```
 
 Alternatively, you can clone this repository and execute the script directly.
